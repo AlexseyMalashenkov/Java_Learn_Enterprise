@@ -4,7 +4,11 @@
     <groupId>by.it-academy.jd2</groupId>
     <artifactId>JD2-78-21</artifactId>
     <version>0.0.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <modules>
+        <module>HomeWork1</module>
+        <module>HomeWork2</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>11</java.version>
